@@ -1,0 +1,148 @@
+- repo: t2
+  srcname: epr
+  visiblename: epr
+  version: 2.4.15
+  origversion: null
+  status: newest
+  summary: CLI epub reader
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/base
+- repo: nix_unstable
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: office/epr
+  visiblename: office/epr
+  version: 2.4.15
+  origversion: null
+  status: newest
+  maintainers:
+    - toi@doclai.com
+  categories:
+    - office
+- repo: alpine_edge
+  subrepo: testing
+  srcname: epr
+  binname: epr
+  visiblename: epr
+  version: 2.4.15
+  origversion: 2.4.15-r2
+  status: newest
+  summary: CLI epub reader
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: epr
+  binname: epr-pyc
+  visiblename: epr-pyc
+  version: 2.4.15
+  origversion: 2.4.15-r2
+  status: newest
+  summary: Precompiled Python bytecode for epr
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: aur
+  srcname: epr-git
+  binname: epr-git
+  visiblename: epr-git
+  version: 2.4.15.r154.723c77d
+  origversion: 2.4.15.r154.723c77d-1
+  status: rolling
+  summary: CLI Epub Reader
+  maintainers:
+    - jneidel@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: epr
+  visiblename: epr
+  version: 2.2.7
+  origversion: null
+  status: outdated
+  summary: Terminal/CLI Epub reader written in Python 3.7.
+- repo: homebrew
+  srcname: epr
+  visiblename: epr
+  version: 2.4.15
+  origversion: null
+  status: newest
+  summary: Command-line EPUB reader
+- repo: homebrew
+  srcname: epr
+  visiblename: epr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line EPUB reader
+- repo: nix_stable_24_05
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: epr
+  visiblename: epr
+  version: 2.4.13
+  origversion: null
+  status: outdated
+  summary: CLI Epub Reader
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
