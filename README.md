@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,410 · **Forks**: 54 · **Open issues**: 53 · **Contributors**: 8
+- **Stars**: 1,411 · **Forks**: 54 · **Open issues**: 53 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-09-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last720d | 2024-10-04 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-09-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last720d | 2024-10-05 | 0 | 0 | 4 | 0 | 1 | 0 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for epr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:29:43Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:41:56Z._
