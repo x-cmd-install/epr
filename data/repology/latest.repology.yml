@@ -1,3 +1,22 @@
+- repo: aur
+  srcname: epr-git
+  binname: epr-git
+  visiblename: epr-git
+  version: 2.4.15.r154.723c77d
+  origversion: 2.4.15.r154.723c77d-1
+  status: rolling
+  summary: CLI Epub Reader
+  maintainers:
+    - jneidel@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: epr
+  visiblename: epr
+  version: 2.2.7
+  origversion: null
+  status: outdated
+  summary: Terminal/CLI Epub reader written in Python 3.7.
 - repo: alpine_edge
   subrepo: testing
   srcname: epr
@@ -24,25 +43,6 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
-- repo: aur
-  srcname: epr-git
-  binname: epr-git
-  visiblename: epr-git
-  version: 2.4.15.r154.723c77d
-  origversion: 2.4.15.r154.723c77d-1
-  status: rolling
-  summary: CLI Epub Reader
-  maintainers:
-    - jneidel@aur
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: epr
-  visiblename: epr
-  version: 2.2.7
-  origversion: null
-  status: outdated
-  summary: Terminal/CLI Epub reader written in Python 3.7.
 - repo: homebrew
   srcname: epr
   visiblename: epr
