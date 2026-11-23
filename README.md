@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.15` (2022-09-30)
-- **Last commit**: 2022-09-30
+- **Last commit**: 2026-11-22
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,418 · **Forks**: 58 · **Open issues**: 54 · **Contributors**: 9
+- **Stars**: 1,418 · **Forks**: 61 · **Open issues**: 54 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 9 · **Open PRs**: 6 · **Closed issues**: 34 · **Open issues**: 20 · **Commits**: 154
+- **Releases**: 4 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 34 · **Open issues**: 20 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-26 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-11-27 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last720d | 2024-12-02 | 0 | 0 | 4 | 0 | 2 | 0 |
+| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 360d | 2025-11-28 | 0 | 1 | 1 | 0 | 2 | 1 |
+| last720d | 2024-12-03 | 0 | 3 | 1 | 0 | 2 | 6 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for epr lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:05:07Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:15:13Z._
